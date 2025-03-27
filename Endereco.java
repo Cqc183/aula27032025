@@ -21,7 +21,7 @@ public class Endereco {
     }
     @Override
     public String toString(){
-        return "Endereco{rua = '" + rua + "'";
+        return "Endereco{rua = '" + rua + "'}";
     }
     
 }
