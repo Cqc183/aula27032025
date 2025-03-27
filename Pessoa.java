@@ -7,7 +7,7 @@
  *
  * @author 202208878202
  */
-public class Pessoa implements Cloneable {
+public class Pessoa   {
     private String nome;
     private String endereco;
 
@@ -49,3 +49,4 @@ public class Pessoa implements Cloneable {
  
  
 }
+
